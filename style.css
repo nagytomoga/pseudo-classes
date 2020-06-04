@@ -1,0 +1,13 @@
+div {
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    line-height: 1.5rem;
+    font-weight: bolder;
+    color: #222;
+}
+
+div:hover {
+    background-color: lightcoral;
+}
